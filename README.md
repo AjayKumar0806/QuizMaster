@@ -75,5 +75,5 @@ We welcome contributions to improve QuizMaster. If you'd like to contribute, ple
 
 ## Screenshots
 
-![QuizMaster Dashboard](screenshots/QuizMaster_Dashboard.png)
+![QuizMaster Dashboard](screenshots/QuizMaster.png)
 
